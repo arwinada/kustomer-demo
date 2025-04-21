@@ -1,4 +1,4 @@
-const tutorialApp = "giphy_tutorial_app";
+const tutorialApp = "giphytutorialapp";
 const siteURL = "https://arwinada.github.io/kustomerpoc";
 
 export default {
